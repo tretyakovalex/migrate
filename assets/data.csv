@@ -1,0 +1,40 @@
+City,Category,Rank,Name
+Bremen,Bank,1,Sparkasse Bremen
+Bremen,Bank,2,Bremer Landesbank
+Bremen,Bank,3,Commerzbank
+Bremen,Bank,4,Deutsche Bank
+Bremen,Bank,5,UniCredit Bank
+Bremen,Insurance,1,Allianz Versicherung
+Bremen,Insurance,2,Talanx AG
+Bremen,Insurance,3,Generali Deutschland Holding AG
+Bremen,Insurance,4,AXA Konzern AG
+Bremen,Insurance,5,HDI Global SE
+Bremen,Telecommunication,1,Deutsche Telekom
+Bremen,Telecommunication,2,Vodafone
+Bremen,Telecommunication,3,O2
+Hamburg,Bank,1,Hamburger Sparkasse AG
+Hamburg,Bank,2,Deutsche Bank
+Hamburg,Bank,3,Commerzbank
+Hamburg,Bank,4,Hamburg Commercial Bank
+Hamburg,Bank,5,UniCredit Bank
+Hamburg,Insurance,1,Allianz Versicherung
+Hamburg,Insurance,2,Talanx AG
+Hamburg,Insurance,3,Generali Deutschland Holding AG
+Hamburg,Insurance,4,AXA Konzern AG
+Hamburg,Insurance,5,HDI Global SE
+Hamburg,Telecommunication,1,Deutsche Telekom
+Hamburg,Telecommunication,2,Vodafone
+Hamburg,Telecommunication,3,O2
+Brussels,Bank,1,BNP Paribas Fortis
+Brussels,Bank,2,KBC Bank
+Brussels,Bank,3,Belfius Bank
+Brussels,Bank,4,ING Belgium
+Brussels,Bank,5,BNP Paribas
+Brussels,Insurance,1,AG Insurance
+Brussels,Insurance,2,Ethias
+Brussels,Insurance,3,AXA Belgium
+Brussels,Insurance,4,P&V Group
+Brussels,Insurance,5,Baloise Insurance
+Brussels,Telecommunication,1,Proximus
+Brussels,Telecommunication,2,Telenet
+Brussels,Telecommunication,3,Orange Belgium
