@@ -1,0 +1,86 @@
+{
+    "KBC": {
+    "account-opening": "https://www.kbc.be/particuliers/fr/produits/paiements/comptes-a-vue/ouvrez-compte-a-vue.html?zone=topnav",
+    "plan-comparison": "https://www.kbc.be/particuliers/fr/produits/paiements/cartes-de-paiement/cartes-de-credit-et-cartes-prepayees/comparaison-cartes-credit-carte-prepaid.html?zone=more-services"
+    },
+    "Belfius": {
+        "accounts": {
+            "account-opening": "https://www.belfius.be/retail/fr/devenir-client/index.aspx"
+        },
+        "cards": {
+            "debit-card": "https://www.belfius.be/corporate/FR/ProduitsServices/GestionTresorerieTransactions/PayerEtrePaye/Payer/CartesBancaires/Debit/index.aspx?firstWA=no",
+            "deposit-card": "https://www.belfius.be/corporate/FR/ProduitsServices/GestionTresorerieTransactions/PayerEtrePaye/Payer/CartesBancaires/Depot/index.aspx?firstWA=no",
+            "prepaid-card": "https://www.belfius.be/corporate/FR/ProduitsServices/GestionTresorerieTransactions/PayerEtrePaye/Payer/CartesBancaires/Prepaid/Prepaid-MasterCard/index.aspx?firstWA=no",
+            "credit-card": "https://www.belfius.be/corporate/FR/ProduitsServices/GestionTresorerieTransactions/PayerEtrePaye/Payer/CartesBancaires/Credit/index.aspx?firstWA=no"
+        }
+    },
+    "BNP Paribas Fortis": {
+        "accounts": {
+            "checking-accounts": "https://www.bnpparibasfortis.be/fr/La-banque-au-quotidien/Decouvrez/Produits/Comptes-a-vue?axes4=priv",
+            "savings-accounts": "https://www.bnpparibasfortis.be/fr/La-banque-au-quotidien/Decouvrez/Produits/Comptes-depargne?axes4=priv"
+        },
+        "cards": {
+            "credit-cards": "https://www.bnpparibasfortis.be/fr/La-banque-au-quotidien/Decouvrez/Produits/Cartes-de-credit?axes4=priv"
+        }
+    },
+    "ING Belgium": {
+        "accounts": {
+            "account-comparison": "https://www.ing.be/en/individuals/daily-banking/compare-bank-accounts"
+        }
+    },
+    "Deutsche Bank Belgium": {
+        "cards": {
+            "debit-card": "https://www.deutschebank.be/fr/solutions/banque-au-quotidien/carte-bancaire.html",
+        },
+        "accounts": {
+            "corporate-banking": "https://www.deutschebank.be/fr/corporate-bank.html"
+        }
+    },
+    "Crelan": {
+        "accounts": {
+            "package-comparison": "https://www.crelan.be/fr/particuliers/produit/comparez-nos-packs"
+        }
+    },
+    "AXA Bank Belgium": {
+        "accounts": {
+            "checking-accounts": "https://www.axabank.be/fr/comptes-a-vue"
+        },
+        "cards": {
+            "credit-cards": "https://www.axabank.be/fr/cartes-de-credit"
+        }
+    },
+    "Argenta": {
+        "accounts": "https://www.argenta.be/en/formules.html"
+    },
+    "Bpost banque": {
+        "cards": {
+            "debit card": "https://www.bpostbanque.be/en/accounts-and-cards/debit-card",
+            "credit cards": "https://www.bpostbanque.be/en/accounts-and-cards/credit-cards"
+        },
+        "accounts": {
+            "checking accounts": "https://www.bpostbanque.be/en/accounts-and-cards/checking-accounts",
+            "savings accounts": "https://www.bpostbanque.be/en/accounts-and-cards/savings-accounts"
+        }
+    },
+    "CBC Banking": {
+        "accounts": {
+            "free bank account": "https://www.cbc.be/en/individuals/products/payments/checking-accounts/free-bank-account.html?zone=topnav",
+            "youth account": "https://www.cbc.be/en/individuals/products/payments/checking-accounts/youth-account.html?zone=topnav",
+            "tailored account": "https://www.cbc.be/en/individuals/products/payments/checking-accounts/tailored-account.html?zone=topnav",
+            "joint account": "https://www.cbc.be/en/individuals/products/payments/checking-accounts/joint-account.html?zone=topnav"
+        }
+    },
+    "CPH Banking": {
+        "accounts": {
+            "ordinary current account": "https://www.cph.be/en/my-daily-banking/current-accounts/ordinary-current-account/",
+            "internet current account": "https://www.cph.be/en/my-daily-banking/current-accounts/internet-current-account/",
+            "youth current account": "https://www.cph.be/en/my-daily-banking/current-accounts/youth-current-account/",
+            "interbank mobility": "https://www.cph.be/en/my-daily-banking/current-accounts/interbank-mobility/",
+            "basic banking service": "https://www.cph.be/en/my-daily-banking/current-accounts/basic-banking-service/",
+            "universal banking service": "https://www.cph.be/en/my-daily-banking/current-accounts/universal-banking-service/"
+        }
+    },
+    "Europabank": {
+        "accounts and cards": "https://www.europabank.be/en/accounts-and-cards"
+    }
+}
