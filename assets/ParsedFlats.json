@@ -1,5 +1,6 @@
 [
   {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/light-flooded-attic-studio-with-a-panoramic-view-over-bremen-walle/620e384cd1387cfd993b793f?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Light-flooded attic studio with a panoramic view over Bremen-Walle",
     "price": "€700 / month",
     "bedrooms": "1",
@@ -8,6 +9,7 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/4hieLrXisvRjy2GH40r56-original"
   },
   {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/lovely-and-bright-flat/6106435fb77ece0008c4b75a?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Lovely and bright flat",
     "price": "€1,190 / month",
     "bedrooms": "1",
@@ -16,6 +18,7 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/QigsUvs8OY0Tmb76m2Bd4-original"
   },
   {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/cute-and-bright-home-in-oestliche-vorstadt/60d9ff4308b4070007188133?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Cute & bright home in \\u00d6stliche Vorstadt",
     "price": "€1,190 / month",
     "bedrooms": "1",
@@ -24,14 +27,7 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/gGf-jXNr-lUahikPfnpYb-original"
   },
   {
-    "title": "Beautiful & spacious Apartment - in typical bremen building",
-    "price": "€1,250 / month",
-    "bedrooms": "3",
-    "beds": "3",
-    "sqrmtrs": "65 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/BspkkUAa2ns_9VwRPOemK-original"
-  },
-  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/maisonette-apartment-in-walle-bremen/62d44d440f70552ccfdfb837?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Maisonette apartment in Walle (Bremen)",
     "price": "€950 / month",
     "bedrooms": "1",
@@ -40,14 +36,7 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/ZUnbrfQysVaAQE3yW9oLg-original"
   },
   {
-    "title": "Lovely, perfect studio located in Walle",
-    "price": "€1,200 / month",
-    "bedrooms": "3",
-    "beds": "4",
-    "sqrmtrs": "60 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/6Iyl55yWqDOfvq88NKOwI-original"
-  },
-  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/business-apartment-with-balcony-in-top-location/5daf160925aba9000749445c?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Business apartment with balcony in top location",
     "price": "€1,044 / month",
     "bedrooms": "1",
@@ -56,14 +45,25 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/WJauoEFUM-original"
   },
   {
-    "title": "Perfect loft in \\u00d6stliche Vorstadt",
-    "price": "€3,300 / month",
-    "bedrooms": "2",
-    "beds": "2",
-    "sqrmtrs": "87 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/059V_YRqqFw6RHhwDpzxS-original"
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/beautiful-and-spacious-apartment-in-typical-bremen-building/603cb63fb2ee4c000745fd4c?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Beautiful & spacious Apartment - in typical bremen building",
+    "price": "€1,250 / month",
+    "bedrooms": "3",
+    "beds": "3",
+    "sqrmtrs": "65 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/BspkkUAa2ns_9VwRPOemK-original"
   },
   {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/lovely-perfect-studio-located-in-walle/60257639b5c094000798696c?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Lovely, perfect studio located in Walle",
+    "price": "€1,200 / month",
+    "bedrooms": "3",
+    "beds": "4",
+    "sqrmtrs": "60 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/6Iyl55yWqDOfvq88NKOwI-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/modern-fully-furnished-rental-apartment-near-bremen-airport-in-neustadt/635ab7d9935fa19250788247?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Modern, fully furnished rental apartment, NEAR Bremen Airport, in Neustadt",
     "price": "€1,300 / month",
     "bedrooms": "2",
@@ -72,6 +72,7 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/zPqMF9vDBTSKWPJrAUuQL-original"
   },
   {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/new-and-cozy-apartment-in-schwachhausen/5ee0d268aedfa20006192e04?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "New and cozy apartment in Schwachhausen",
     "price": "€999 / month",
     "bedrooms": "1",
@@ -80,6 +81,7 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/MLEDaMirzl-original"
   },
   {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/amazing-modern-suite-in-schwachhausen/5ee0d975b10ec80006d906f1?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Amazing, modern suite in Schwachhausen",
     "price": "€1,150 / month",
     "bedrooms": "1",
@@ -88,22 +90,7 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/25ZTDCtnw-original"
   },
   {
-    "title": "Maisonette-Apartment in Walle (Bremen)",
-    "price": "€1,200 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "34 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/7t3B8wSvee_xYLDeAVNLK-original"
-  },
-  {
-    "title": "\\u2729 Beautiful 2BR! with kitchen, bathroom, in Bremen-Neustadt",
-    "price": "€1,650 / month",
-    "bedrooms": "2",
-    "beds": "2",
-    "sqrmtrs": "55 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/jkOG4Ua_KrizCltBHntzW-original"
-  },
-  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/loft-parterre-jugendstilhaus-riverside-65m2-city-appartement-near-bei-the-river-weser-schlachte-bremen/5d08651571ec59000601cf27?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Loft Parterre Jugendstilhaus Riverside 65m2. City Appartement near bei the River Weser Schlachte Bremen.",
     "price": "€1,350 / month",
     "bedrooms": "3",
@@ -112,70 +99,7 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/4GTgzKARyrbuyifvqJ9o8-original"
   },
   {
-    "title": "Awesome apartment in Mitte",
-    "price": "€1,390 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "59 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/ZlFG26YmcIffsxP4HVC-h-original"
-  },
-  {
-    "title": "Fantastic suite (Mitte)",
-    "price": "€1,900 / month",
-    "bedrooms": "2",
-    "beds": "4",
-    "sqrmtrs": "65 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/6a-Uq8J-vVmnUYiVDohPC-original"
-  },
-  {
-    "title": "Designer apartment in the centre of Mitte with spa and fitness room use",
-    "price": "€1,500 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "27 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/n6yWuwWefvnlNcWjOmhb9-original"
-  },
-  {
-    "title": "*Schwachhausen* gehobene 3 Bedroom m\\u00f6bliertes Apartment",
-    "price": "€3,800 / month",
-    "bedrooms": "4",
-    "beds": "4",
-    "sqrmtrs": "130 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/Rz3CKcf7Bcxyfmawco__X-original"
-  },
-  {
-    "title": "Modern serviced flat with great facilities and spa in direct Weser location",
-    "price": "€1,650 / month",
-    "bedrooms": "1",
-    "beds": "2",
-    "sqrmtrs": "25 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/SG6bcxNdCdqW2lr9qB6Zs-original"
-  },
-  {
-    "title": "Modern, pretty suite in nice area  in Bremen",
-    "price": "€900 / month",
-    "bedrooms": "2",
-    "beds": "1",
-    "sqrmtrs": "40 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/r1XEv67UN-original"
-  },
-  {
-    "title": "Modern apartment on the beautiful Osterdeich with Weser views!",
-    "price": "€2,590 / month",
-    "bedrooms": "3",
-    "beds": "2",
-    "sqrmtrs": "97 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/m3ntO6aY_ZrlSuqtDV8UV-original"
-  },
-  {
-    "title": "Spacious 2-room apartment with small terrace and underground parking space in Bremen-City",
-    "price": "€1,490 / month",
-    "bedrooms": "2",
-    "beds": "1",
-    "sqrmtrs": "111 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/bgb_upChIKl9OaW_n443Y-original"
-  },
-  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/wonderful-and-great-home-in-schwachhausen-bremen/5ee0ce62b10ec80006d903da?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Wonderful & great home in Schwachhausen, Bremen",
     "price": "€1,044 / month",
     "bedrooms": "1",
@@ -184,46 +108,34 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/cWr_jmVpF-original"
   },
   {
-    "title": "Spacious 2-room apartment with balcony in Schwachhausen, 15 minutes to the main train station",
-    "price": "€1,250 / month",
-    "bedrooms": "2",
-    "beds": "1",
-    "sqrmtrs": "55 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/HeJMJlA2-original"
-  },
-  {
-    "title": "Modern and stylish serviced apartment in the centre of Bremen, including cleaning",
-    "price": "€1,620 / month",
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/awesome-apartment-in-mitte/63ae7a2227432a6f4e8e98ba?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Awesome apartment in Mitte",
+    "price": "€1,390 / month",
     "bedrooms": "1",
     "beds": "1",
-    "sqrmtrs": "23 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/NhPs5JYSN-original"
+    "sqrmtrs": "59 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/ZlFG26YmcIffsxP4HVC-h-original"
   },
   {
-    "title": "deluxe apartment with balcony",
-    "price": "€3,700 / month",
-    "bedrooms": "3",
-    "beds": "2",
-    "sqrmtrs": "93 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/r7RiF2tudS1LNZADr8BB3-original"
-  },
-  {
-    "title": "Amazing, great apartment in Mitte",
-    "price": "€1,450 / month",
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/beautiful-2br-with-kitchen-bathroom-in-bremen-neustadt/5ff438dc280fab0006c70b8b?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "\\u2729 Beautiful 2BR! with kitchen, bathroom, in Bremen-Neustadt",
+    "price": "€1,650 / month",
     "bedrooms": "2",
     "beds": "2",
-    "sqrmtrs": "40 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/LL25MTT0t-original"
+    "sqrmtrs": "55 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/jkOG4Ua_KrizCltBHntzW-original"
   },
   {
-    "title": "Spacious and bright suite in a pleasant location .",
-    "price": "€1,200 / month",
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/fantastic-suite-mitte/638a4a9f74c1cbd4e9877765?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Fantastic suite (Mitte)",
+    "price": "€1,900 / month",
     "bedrooms": "2",
-    "beds": "1",
+    "beds": "4",
     "sqrmtrs": "65 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/hSj4nGYRI44GtV7DNaGtB-original"
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/6a-Uq8J-vVmnUYiVDohPC-original"
   },
   {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/g/modern-and-beautiful-flat-in-the-city-centre/Juk4J7_5cBs6AZdD76plK?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Modern & beautiful flat in the city centre",
     "price": "€2,790 / month",
     "bedrooms": "2",
@@ -232,78 +144,61 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/A9FekNYJRLL15PZXiK-uP-original"
   },
   {
-    "title": "Design apartment in the most popular district",
-    "price": "€1,150 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "33 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/bJGAJYZmJwPkpnZD4mvnb-original"
-  },
-  {
-    "title": "Perfect & quiet flat in Mitte",
-    "price": "€1,500 / month",
-    "bedrooms": "1",
-    "beds": "2",
-    "sqrmtrs": "38 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/SbCD5Y1ry-original"
-  },
-  {
-    "title": "Modern and stylish serviced apartment in the centre of Bremen, including cleaning up to 4 persons",
-    "price": "€2,520 / month",
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/spacious-2-room-apartment-with-small-terrace-and-underground-parking-space-in-bremen-city/601bcb8a41a7640007442848?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Spacious 2-room apartment with small terrace and underground parking space in Bremen-City",
+    "price": "€1,490 / month",
     "bedrooms": "2",
-    "beds": "2",
-    "sqrmtrs": "37 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/weL_6PasM-original"
-  },
-  {
-    "title": "Gorgeous suite in Walle, Bremen",
-    "price": "€1,000 / month",
-    "bedrooms": "1",
     "beds": "1",
-    "sqrmtrs": "28 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/U9_wAY2SA3vxdhaGLYgY1-original"
+    "sqrmtrs": "111 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/bgb_upChIKl9OaW_n443Y-original"
   },
   {
-    "title": "Designer apartment in the centre of Mitte with spa and fitness room use",
-    "price": "€1,600 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "24 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/ZItA4dAk22uD24CrDszWv-original"
-  },
-  {
-    "title": "Bright & wonderful flat in Mitte",
-    "price": "€1,770 / month",
-    "bedrooms": "2",
-    "beds": "3",
-    "sqrmtrs": "55 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/mi2RxSvybiUrlhPqvxPqR-original"
-  },
-  {
-    "title": "Great and amazing studio (Mitte)",
-    "price": "€1,500 / month",
-    "bedrooms": "2",
-    "beds": "2",
-    "sqrmtrs": "66 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/n87YBdFox6FKclDc4B-VM-original"
-  },
-  {
-    "title": "Fantastic & spacious apartment located in Schwachhausen (Bremen)",
-    "price": "€1,315 / month",
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/modern-apartment-on-the-beautiful-osterdeich-with-weser-views/63286383b8800b9947c49063?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Modern apartment on the beautiful Osterdeich with Weser views!",
+    "price": "€2,590 / month",
     "bedrooms": "3",
-    "beds": "1",
-    "sqrmtrs": "86 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/0_99QUCAIG3bjXtkf8nwa-original"
-  },
-  {
-    "title": "Gorgeous and cute apartment (City)",
-    "price": "€1,500 / month",
-    "bedrooms": "1",
     "beds": "2",
-    "sqrmtrs": "40 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/Sk6JswzVM-original"
+    "sqrmtrs": "97 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/m3ntO6aY_ZrlSuqtDV8UV-original"
   },
   {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/maisonette-apartment-in-walle-bremen/62caebb7ba55f8bdf2fd038e?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Maisonette-Apartment in Walle (Bremen)",
+    "price": "€1,200 / month",
+    "bedrooms": "1",
+    "beds": "1",
+    "sqrmtrs": "34 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/7t3B8wSvee_xYLDeAVNLK-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/perfect-loft-in-oestliche-vorstadt/637d2afae5e10db5f0552ad6?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Perfect loft in \\u00d6stliche Vorstadt",
+    "price": "€3,300 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "87 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/059V_YRqqFw6RHhwDpzxS-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/modern-pretty-suite-in-nice-area-in-bremen/5c76466feb46a80007c156fd?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Modern, pretty suite in nice area  in Bremen",
+    "price": "€900 / month",
+    "bedrooms": "2",
+    "beds": "1",
+    "sqrmtrs": "40 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/r1XEv67UN-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/spacious-and-bright-suite-in-a-pleasant-location/6058838793aa280007c5fa85?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Spacious and bright suite in a pleasant location .",
+    "price": "€1,200 / month",
+    "bedrooms": "2",
+    "beds": "1",
+    "sqrmtrs": "65 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/hSj4nGYRI44GtV7DNaGtB-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/bright-and-quiet-apartment-in-a-prime-location/616030406a63f600085158ce?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Bright and quiet apartment in a prime location",
     "price": "€1,380 / month",
     "bedrooms": "2",
@@ -312,54 +207,7 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/-C9qwlmPZusM3yKDnzssJ-original"
   },
   {
-    "title": "Exclusive 2 room top floor apartment in Neustadt",
-    "price": "€1,950 / month",
-    "bedrooms": "2",
-    "beds": "2",
-    "sqrmtrs": "57 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/aR11XoRI-original"
-  },
-  {
-    "title": "deluxe apartment with balcony",
-    "price": "€3,000 / month",
-    "bedrooms": "2",
-    "beds": "1",
-    "sqrmtrs": "78 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/AxhWglpY9B5UsriWuaxdy-original"
-  },
-  {
-    "title": "\\u2606Beautiful Stylish apartment on Osterdeich\\u2606parking lot",
-    "price": "€4,500 / month",
-    "bedrooms": "3",
-    "beds": "3",
-    "sqrmtrs": "137 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/IVX3X6j_cbcC-pDjlwiHP-original"
-  },
-  {
-    "title": "Quiet, chic loft in Schnoor",
-    "price": "€1,800 / month",
-    "bedrooms": "3",
-    "beds": "2",
-    "sqrmtrs": "86 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/SRbjR3Xtbk5QbQIv6Ch11-original"
-  },
-  {
-    "title": "Maisonette-Apartment in Walle (Bremen)",
-    "price": "€850 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "20 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/xHME8mxvMOIYtPXPBUqoN-original"
-  },
-  {
-    "title": "Amazing, wonderful loft in Mitte",
-    "price": "€3,200 / month",
-    "bedrooms": "2",
-    "beds": "2",
-    "sqrmtrs": "43 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/GAs9hgE4t7CrHRdh_OtGE-original"
-  },
-  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/g/modern-and-comfortably-designed-apartment-near-the-city-centre/NwV4bUmpHrjQmNBVbGXOb?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Modern and comfortably designed apartment near the city centre",
     "price": "€2,550 / month",
     "bedrooms": "2",
@@ -368,102 +216,16 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/uvN-gllK6et75MOceqw7A-original"
   },
   {
-    "title": "Deluxe Apartments Bremen type 4",
-    "price": "€1,800 / month",
-    "bedrooms": "3",
-    "beds": "2",
-    "sqrmtrs": "70 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/1LB5TC7-H-original"
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/g/*schwachhausen*-gehobene-3-bedroom-moebliertes-apartment/FM6F4ZB8XmMVVJwUOpkjE?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "*Schwachhausen* gehobene 3 Bedroom m\\u00f6bliertes Apartment",
+    "price": "€3,800 / month",
+    "bedrooms": "4",
+    "beds": "4",
+    "sqrmtrs": "130 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/Rz3CKcf7Bcxyfmawco__X-original"
   },
   {
-    "title": "Exclusive 2 room apartment with balcony in top location!in Neustadt",
-    "price": "€1,950 / month",
-    "bedrooms": "2",
-    "beds": "2",
-    "sqrmtrs": "65 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/1KsoQY8m-original"
-  },
-  {
-    "title": "Central design apartment in the most popular district",
-    "price": "€2,450 / month",
-    "bedrooms": "3",
-    "beds": "3",
-    "sqrmtrs": "96 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/KxjsV7TSCmKd4qPsDJCn8-original"
-  },
-  {
-    "title": "Perfect, gorgeous flat in Walle",
-    "price": "€1,149 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "32 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/hEz5AuLVvx9SotwnG_znh-original"
-  },
-  {
-    "title": "Wonderful suite in \\u00d6stliche Vorstadt (Bremen)",
-    "price": "€1,050 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "16 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/7pA2M3OQWr5j34n0mfvVw-original"
-  },
-  {
-    "title": "Fashionable and cozy loft located in Findorff including weekly cleaning",
-    "price": "€1,190 / month",
-    "bedrooms": "2",
-    "beds": "2",
-    "sqrmtrs": "45 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/wpOwjDIY_Y2iQhIxzW4aV-original"
-  },
-  {
-    "title": "Large technician flat, student flat, 4 rooms, central",
-    "price": "€2,500 / month",
-    "bedrooms": "3",
-    "beds": "5",
-    "sqrmtrs": "100 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/nBUj2J1wMNVjzLcP6MWl5-original"
-  },
-  {
-    "title": "Beautiful cozy apartment in bremen center",
-    "price": "€1,198 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "30 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/ESf9A6bks-original"
-  },
-  {
-    "title": "Pretty, lovely home in nice neighborhood, with balcony and free parking",
-    "price": "€1,790 / month",
-    "bedrooms": "2",
-    "beds": "2",
-    "sqrmtrs": "60 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/EpJc_9EAGIabWDOb2YHmw-original"
-  },
-  {
-    "title": "Central chic design apartment",
-    "price": "€1,150 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "32 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/cr8tj3TfEtVTlDEv5yM1X-original"
-  },
-  {
-    "title": "Design apartment in a central, quiet location",
-    "price": "€1,150 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "32 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/QNX3-hbOPR-J5yfF_qkGT-original"
-  },
-  {
-    "title": "Neat and lovely suite in Neustadt",
-    "price": "€980 / month",
-    "bedrooms": "1",
-    "beds": "1",
-    "sqrmtrs": "48 m^2",
-    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/_oGhA-1V1-original"
-  },
-  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/modern-2z-apartment-with-garden/60352772f22e59000791d580?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
     "title": "Modern 2Z. Apartment with garden",
     "price": "€1,850 / month",
     "bedrooms": "2",
@@ -472,11 +234,309 @@
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/liDGYi8QR0E_DzUcBMq0n-original"
   },
   {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/gorgeous-suite-in-walle-bremen/62b8836b126a4f52fce7c99f?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Gorgeous suite in Walle, Bremen",
+    "price": "€1,000 / month",
+    "bedrooms": "1",
+    "beds": "1",
+    "sqrmtrs": "28 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/U9_wAY2SA3vxdhaGLYgY1-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/g/modern-and-stylish-serviced-apartment-in-the-centre-of-bremen-including-cleaning/9LtJwdJPk?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Modern and stylish serviced apartment in the centre of Bremen, including cleaning",
+    "price": "€1,620 / month",
+    "bedrooms": "1",
+    "beds": "1",
+    "sqrmtrs": "23 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/NhPs5JYSN-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/perfect-and-quiet-flat-in-mitte/5ea191cdc8c7de0006fc4474?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Perfect & quiet flat in Mitte",
+    "price": "€1,500 / month",
+    "bedrooms": "1",
+    "beds": "2",
+    "sqrmtrs": "38 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/SbCD5Y1ry-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/bright-and-wonderful-flat-in-mitte/6040c6b377c9830008353b3a?dataLayerKey=juMGVsKyrDaZJwAN23BrP",
+    "title": "Bright & wonderful flat in Mitte",
+    "price": "€1,770 / month",
+    "bedrooms": "2",
+    "beds": "3",
+    "sqrmtrs": "55 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/mi2RxSvybiUrlhPqvxPqR-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/deluxe-apartment-with-balcony/63c035d6cac78d6ee9e04f72?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "deluxe apartment with balcony",
+    "price": "€3,000 / month",
+    "bedrooms": "2",
+    "beds": "1",
+    "sqrmtrs": "78 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/AxhWglpY9B5UsriWuaxdy-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/amazing-great-apartment-in-mitte/5f635f0eafd1eb0006cc9e00?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Amazing, great apartment in Mitte",
+    "price": "€1,450 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "40 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/LL25MTT0t-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/g/designer-apartment-in-the-centre-of-mitte-with-spa-and-fitness-room-use/APFJCzqd0_?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Designer apartment in the centre of Mitte with spa and fitness room use",
+    "price": "€1,600 / month",
+    "bedrooms": "1",
+    "beds": "1",
+    "sqrmtrs": "24 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/ZItA4dAk22uD24CrDszWv-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/gorgeous-and-cute-apartment-city/5a54eb63d367320a1c0ac6d8?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Gorgeous and cute apartment (City)",
+    "price": "€1,500 / month",
+    "bedrooms": "1",
+    "beds": "2",
+    "sqrmtrs": "40 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/Sk6JswzVM-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/g/modern-and-stylish-serviced-apartment-in-the-centre-of-bremen-including-cleaning-up-to-4-persons/zfQciv3cn?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Modern and stylish serviced apartment in the centre of Bremen, including cleaning up to 4 persons",
+    "price": "€2,520 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "37 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/weL_6PasM-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/spacious-2-room-apartment-with-balcony-in-schwachhausen-15-minutes-to-the-main-train-station/5def93c5f54336000685351f?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Spacious 2-room apartment with balcony in Schwachhausen, 15 minutes to the main train station",
+    "price": "€1,250 / month",
+    "bedrooms": "2",
+    "beds": "1",
+    "sqrmtrs": "55 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/HeJMJlA2-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/deluxe-apartment-with-balcony/63c53b8b58ba6e0d59bcfaee?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "deluxe apartment with balcony",
+    "price": "€3,700 / month",
+    "bedrooms": "3",
+    "beds": "2",
+    "sqrmtrs": "93 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/r7RiF2tudS1LNZADr8BB3-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/pretty-lovely-home-in-nice-neighborhood-with-balcony-and-free-parking/63ac6c4ff455ee6654912267?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Pretty, lovely home in nice neighborhood, with balcony and free parking",
+    "price": "€1,790 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "60 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/EpJc_9EAGIabWDOb2YHmw-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/great-and-amazing-studio-mitte/63d28d2a987fe239ac33e1d6?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Great and amazing studio (Mitte)",
+    "price": "€1,500 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "66 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/n87YBdFox6FKclDc4B-VM-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/g/modern-serviced-flat-with-great-facilities-and-spa-in-direct-weser-location/nusIjg3EIDXC4Q7TJuYNK?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Modern serviced flat with great facilities and spa in direct Weser location",
+    "price": "€1,650 / month",
+    "bedrooms": "1",
+    "beds": "2",
+    "sqrmtrs": "25 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/SG6bcxNdCdqW2lr9qB6Zs-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/fashionable-and-cozy-loft-located-in-findorff-including-weekly-cleaning/612f22e178010800073a0a52?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Fashionable and cozy loft located in Findorff including weekly cleaning",
+    "price": "€1,190 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "45 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/wpOwjDIY_Y2iQhIxzW4aV-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/fantastic-and-spacious-apartment-located-in-schwachhausen-bremen/6293767880400fc79999475f?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Fantastic & spacious apartment located in Schwachhausen (Bremen)",
+    "price": "€1,315 / month",
+    "bedrooms": "3",
+    "beds": "1",
+    "sqrmtrs": "86 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/0_99QUCAIG3bjXtkf8nwa-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/design-apartment-in-the-most-popular-district/61249a45a10483000800992f?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Design apartment in the most popular district",
+    "price": "€1,150 / month",
+    "bedrooms": "1",
+    "beds": "1",
+    "sqrmtrs": "33 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/bJGAJYZmJwPkpnZD4mvnb-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/city-flat-directly-in-the-parks/63ee030942dc3121f7cedb49?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "City flat directly in the parks",
+    "price": "€3,500 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "65 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/CSLC1cr9WLr4phy92wgD4-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/exclusive-2-room-top-floor-apartment-in-neustadt/5e412b2321aced000652ba6c?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Exclusive 2 room top floor apartment in Neustadt",
+    "price": "€1,950 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "57 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/aR11XoRI-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/beautiful-stylish-apartment-on-osterdeichparking-lot/62fffb6bca9ae2940bcf8a32?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "\\u2606Beautiful Stylish apartment on Osterdeich\\u2606parking lot",
+    "price": "€4,500 / month",
+    "bedrooms": "3",
+    "beds": "3",
+    "sqrmtrs": "137 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/IVX3X6j_cbcC-pDjlwiHP-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/maisonette-apartment-in-walle-bremen/638336c34a2171efe9579c3d?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Maisonette-Apartment in Walle (Bremen)",
+    "price": "€850 / month",
+    "bedrooms": "1",
+    "beds": "1",
+    "sqrmtrs": "20 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/xHME8mxvMOIYtPXPBUqoN-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/exclusive-2-room-apartment-with-balcony-in-top-locationin-neustadt/5e412dfb28224f0006c95396?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Exclusive 2 room apartment with balcony in top location!in Neustadt",
+    "price": "€1,950 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "65 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/1KsoQY8m-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/centrally-located-charming-apartment-in-the-city-centre/5e8714da85c25f00077e7db7?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Centrally located, charming apartment in the city centre",
+    "price": "€2,100 / month",
+    "bedrooms": "1",
+    "beds": "1",
+    "sqrmtrs": "32 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/N53V8IeaM-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/modern-penthouse-apartment-near-city-and-university-fully-equipped-great-access-to-roads-and-public-transport/5b4476eebad9442a85742885?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Modern penthouse apartment near city & university, fully equipped, great access to roads and public transport",
+    "price": "€1,500 / month",
+    "bedrooms": "3",
+    "beds": "2",
+    "sqrmtrs": "90 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/B1r_Slzm7-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/quiet-chic-loft-in-schnoor/61fc18db4b0f4d1e68434337?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Quiet, chic loft in Schnoor",
+    "price": "€1,800 / month",
+    "bedrooms": "3",
+    "beds": "2",
+    "sqrmtrs": "86 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/SRbjR3Xtbk5QbQIv6Ch11-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/deluxe-apartment-bremen-type-a/5eb5468db837a800064149b8?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Deluxe Apartment Bremen type A",
+    "price": "€1,650 / month",
+    "bedrooms": "2",
+    "beds": "1",
+    "sqrmtrs": "50 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/tWwdWCJbV-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/perfect-as-a-co-working-space-modern-2-room-apartment-in-bremen/6107fda54ea2b200071b6286?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Perfect as a co-working space! - Modern 2 room apartment in Bremen",
+    "price": "€1,100 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "50 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/JhK1AcGEHo_TK5GeHMSfE-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/deluxe-apartment-bremen-type-d/5ebd21b9c25ab60006621ce4?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
     "title": "Deluxe Apartment Bremen type D",
     "price": "€1,800 / month",
     "bedrooms": "3",
     "beds": "2",
     "sqrmtrs": "70 m^2",
     "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/pQ9q8P5iM-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/central-chic-design-apartment/6113936e16c50a00079dbc8b?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Central chic design apartment",
+    "price": "€1,150 / month",
+    "bedrooms": "1",
+    "beds": "1",
+    "sqrmtrs": "32 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/cr8tj3TfEtVTlDEv5yM1X-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/design-apartment-in-a-central-quiet-location/61a5e14eb73289000770fbb0?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Design apartment in a central, quiet location",
+    "price": "€1,150 / month",
+    "bedrooms": "1",
+    "beds": "1",
+    "sqrmtrs": "32 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/QNX3-hbOPR-J5yfF_qkGT-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/amazing-wonderful-loft-in-mitte/63591f90657a7d04ef23c3da?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Amazing, wonderful loft in Mitte",
+    "price": "€3,200 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "43 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/GAs9hgE4t7CrHRdh_OtGE-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/charming-temporary-flat-in-the-centre-of-mitte-bremen/62cc7984770e92175276882e?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Charming temporary flat in the centre of Mitte, Bremen",
+    "price": "€1,400 / month",
+    "bedrooms": "3",
+    "beds": "2",
+    "sqrmtrs": "60 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/_sGG9fFgYNVjAVEJ3i5P_-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/wonderful-suite-in-oestliche-vorstadt-bremen/610641fe89c6a1000747fee2?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Wonderful suite in \\u00d6stliche Vorstadt (Bremen)",
+    "price": "€1,050 / month",
+    "bedrooms": "1",
+    "beds": "1",
+    "sqrmtrs": "16 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/7pA2M3OQWr5j34n0mfvVw-original"
+  },
+  {
+    "listing_url": "https://wunderflats.com/en/furnished-apartment/cozy-charming-apartment-in-findorff-near-congress-centre/6357f2c5f7f201197d17a401?dataLayerKey=njOBLlTutsIGWUM2TzRe7",
+    "title": "Cozy, charming apartment in Findorff near Congress Centre",
+    "price": "€3,200 / month",
+    "bedrooms": "2",
+    "beds": "2",
+    "sqrmtrs": "53 m^2",
+    "img_url": "https://wunderflatsng.blob.core.windows.net/imagesproduction/vRGnThNvfrnqNlN_qT1Uo-original"
   }
 ]
